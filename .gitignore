@@ -1,0 +1,23 @@
+# Laravel
+/src/vendor
+/src/node_modules
+/src/storage/*.key
+/src/storage/logs
+/src/bootstrap/cache/*.php
+/src/.env
+
+# Composer & Node
+composer.lock
+package-lock.json
+npm-debug.log
+
+# Docker
+.env
+.docker
+docker-compose.override.yml
+
+# Otros
+*.log
+*.cache
+.idea
+.vscode

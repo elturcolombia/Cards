@@ -1,0 +1,2726 @@
+{
+  "Saludos y Despedidas": [
+    {
+      "front": {
+        "text": "What's up?",
+        "ipa": "/wʌts ʌp/"
+      },
+      "back": {
+        "translation": "¿Qué tal? / ¿Qué pasa?",
+        "answers": [
+          {
+            "front": {
+              "text": "Not much. You?",
+              "ipa": "/nɑt mʌʧ. juː?/"
+            },
+            "back": {
+              "translation": "No mucho. ¿Y tú?",
+              "glossary": [
+                {
+                  "word": "much",
+                  "meaning": "mucho"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what's up",
+            "meaning": "qué tal"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How's it going?",
+        "ipa": "/haʊz ɪt ˈɡoʊɪŋ?/"
+      },
+      "back": {
+        "translation": "¿Cómo va?",
+        "answers": [
+          {
+            "front": {
+              "text": "It's going well",
+              "ipa": "/ɪts ˈɡoʊɪŋ wɛl/"
+            },
+            "back": {
+              "translation": "Va bien.",
+              "glossary": [
+                {
+                  "word": "going",
+                  "meaning": "yendo"
+                },
+                {
+                  "word": "well",
+                  "meaning": "bien"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Couldn't be better!",
+              "ipa": "/ˈkʊdnt bi ˈbɛtər!/"
+            },
+            "back": {
+              "translation": "¡No podría estar mejor!",
+              "glossary": [
+                {
+                  "word": "couldn't",
+                  "meaning": "no podría"
+                },
+                {
+                  "word": "better",
+                  "meaning": "mejor"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I'm hanging in there",
+              "ipa": "/aɪm ˈhæŋɪŋ ɪn ðɛr/"
+            },
+            "back": {
+              "translation": "Me las estoy arreglando / aguantando.",
+              "glossary": [
+                {
+                  "word": "hanging in there",
+                  "meaning": "aguantando"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how's",
+            "meaning": "cómo está"
+          },
+          {
+            "word": "going",
+            "meaning": "yendo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Hi, can I call you back?",
+        "ipa": "/haɪ, kæn aɪ kɔl ju bæk?/"
+      },
+      "back": {
+        "translation": "Hola, ¿puedo llamarte de vuelta?",
+        "answers": [],
+        "glossary": [
+          {
+            "word": "call back",
+            "meaning": "devolver la llamada"
+          }
+        ]
+      }
+    }
+  ],
+  "Charla Cotidiana": [
+    {
+      "front": {
+        "text": "How was your weekend?",
+        "ipa": "/haʊ wəz jɚ ˈwiːkˌɛnd?/"
+      },
+      "back": {
+        "translation": "¿Cómo estuvo tu fin de semana?",
+        "answers": [
+          {
+            "front": {
+              "text": "It was great! Super chill.",
+              "ipa": "/ɪt wəz ɡreɪt! ˈsuːpɚ ʧɪl/"
+            },
+            "back": {
+              "translation": "¡Estuvo genial! Muy tranquilo.",
+              "glossary": [
+                {
+                  "word": "great",
+                  "meaning": "genial"
+                },
+                {
+                  "word": "super",
+                  "meaning": "muy"
+                },
+                {
+                  "word": "chill",
+                  "meaning": "tranquilo"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how",
+            "meaning": "cómo"
+          },
+          {
+            "word": "weekend",
+            "meaning": "fin de semana"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Got any plans tonight?",
+        "ipa": "/ɡɑt ˈɛni plænz təˈnaɪt?/"
+      },
+      "back": {
+        "translation": "¿Tienes planes para esta noche?",
+        "answers": [
+          {
+            "front": {
+              "text": "Not really. Just staying in.",
+              "ipa": "/nɑt ˈrɪəli. dʒʌst ˈsteɪɪŋ ɪn/"
+            },
+            "back": {
+              "translation": "No mucho. Me quedaré en casa.",
+              "glossary": [
+                {
+                  "word": "really",
+                  "meaning": "realmente"
+                },
+                {
+                  "word": "staying in",
+                  "meaning": "quedarse en casa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "got",
+            "meaning": "tienes"
+          },
+          {
+            "word": "plans",
+            "meaning": "planes"
+          },
+          {
+            "word": "tonight",
+            "meaning": "esta noche"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How's your family?",
+        "ipa": "/haʊz jɚ ˈfæməli?/"
+      },
+      "back": {
+        "translation": "¿Cómo está tu familia?",
+        "answers": [
+          {
+            "front": {
+              "text": "They're doing well",
+              "ipa": "/ðeɪr ˈduɪŋ wɛl/"
+            },
+            "back": {
+              "translation": "Están bien.",
+              "glossary": [
+                {
+                  "word": "doing well",
+                  "meaning": "están bien"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Everyone's good. Just busy",
+              "ipa": "/ˈɛvriwʌnz ɡʊd. dʒʌst ˈbɪzi/"
+            },
+            "back": {
+              "translation": "Todos están bien. Solo ocupados.",
+              "glossary": [
+                {
+                  "word": "everyone",
+                  "meaning": "todos"
+                },
+                {
+                  "word": "good",
+                  "meaning": "bien"
+                },
+                {
+                  "word": "busy",
+                  "meaning": "ocupados"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how's",
+            "meaning": "cómo está"
+          },
+          {
+            "word": "family",
+            "meaning": "familia"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Have you seen any good movies lately?",
+        "ipa": "/hæv jə sin ˈɛni ɡʊd ˈmuːviz ˈleɪtli?/"
+      },
+      "back": {
+        "translation": "¿Has visto buenas películas últimamente?",
+        "answers": [
+          {
+            "front": {
+              "text": "No, I haven't had time",
+              "ipa": "/noʊ, aɪ ˈhævənt hæd taɪm/"
+            },
+            "back": {
+              "translation": "No, no he tenido tiempo.",
+              "glossary": [
+                {
+                  "word": "haven't",
+                  "meaning": "no he"
+                },
+                {
+                  "word": "had",
+                  "meaning": "tenido"
+                },
+                {
+                  "word": "time",
+                  "meaning": "tiempo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Yeah, I watched a great one last week",
+              "ipa": "/jæ, aɪ wɑʧt ə ɡreɪt wʌn læst wik/"
+            },
+            "back": {
+              "translation": "Sí, vi una excelente la semana pasada.",
+              "glossary": [
+                {
+                  "word": "watched",
+                  "meaning": "vi"
+                },
+                {
+                  "word": "great",
+                  "meaning": "excelente"
+                },
+                {
+                  "word": "last week",
+                  "meaning": "la semana pasada"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Saw a decent one, nothing special.",
+              "ipa": "/sɔ ə ˈdiːsənt wʌn, ˈnʌθɪŋ ˈspɛʃəl/"
+            },
+            "back": {
+              "translation": "Vi una buena, nada especial.",
+              "glossary": [
+                {
+                  "word": "saw",
+                  "meaning": "vi"
+                },
+                {
+                  "word": "decent",
+                  "meaning": "buena"
+                },
+                {
+                  "word": "nothing",
+                  "meaning": "nada"
+                },
+                {
+                  "word": "special",
+                  "meaning": "especial"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "seen",
+            "meaning": "visto"
+          },
+          {
+            "word": "good",
+            "meaning": "buenas"
+          },
+          {
+            "word": "movies",
+            "meaning": "películas"
+          },
+          {
+            "word": "lately",
+            "meaning": "últimamente"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What do you do for fun?",
+        "ipa": "/wʌt də jə du fɔr fʌn?/"
+      },
+      "back": {
+        "translation": "¿Qué haces para divertirte?",
+        "answers": [
+          {
+            "front": {
+              "text": "I like to read",
+              "ipa": "/aɪ laɪk tə riːd/"
+            },
+            "back": {
+              "translation": "Me gusta leer.",
+              "glossary": [
+                {
+                  "word": "like",
+                  "meaning": "gusta"
+                },
+                {
+                  "word": "read",
+                  "meaning": "leer"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Usually I watch movies for fun",
+              "ipa": "/ˈjuːʒəli aɪ wɑʧ ˈmuːviz fɔr fʌn/"
+            },
+            "back": {
+              "translation": "Generalmente veo películas para divertirme.",
+              "glossary": [
+                {
+                  "word": "usually",
+                  "meaning": "generalmente"
+                },
+                {
+                  "word": "watch",
+                  "meaning": "veo"
+                },
+                {
+                  "word": "movies",
+                  "meaning": "películas"
+                },
+                {
+                  "word": "fun",
+                  "meaning": "diversión"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "fun",
+            "meaning": "diversión"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What kind of music do you listen to?",
+        "ipa": "/wʌt kaɪnd əv ˈmjuzɪk du jə ˈlɪsən tə?/"
+      },
+      "back": {
+        "translation": "¿Qué tipo de música escuchas?",
+        "answers": [
+          {
+            "front": {
+              "text": "A little bit of everything",
+              "ipa": "/ə ˈlɪtəl bɪt əv ˈɛvriːθɪŋ/"
+            },
+            "back": {
+              "translation": "Un poco de todo.",
+              "glossary": [
+                {
+                  "word": "little bit",
+                  "meaning": "un poco"
+                },
+                {
+                  "word": "everything",
+                  "meaning": "todo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I like rock and roll",
+              "ipa": "/aɪ laɪk rɑk ən roʊl/"
+            },
+            "back": {
+              "translation": "Me gusta el rock and roll.",
+              "glossary": [
+                {
+                  "word": "like",
+                  "meaning": "gusta"
+                },
+                {
+                  "word": "rock and roll",
+                  "meaning": "rock and roll"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I like classical music",
+              "ipa": "/aɪ laɪk ˈklæsɪkəl ˈmjuːzɪk/"
+            },
+            "back": {
+              "translation": "Me gusta la música clásica.",
+              "glossary": [
+                {
+                  "word": "like",
+                  "meaning": "gusta"
+                },
+                {
+                  "word": "classical",
+                  "meaning": "clásica"
+                },
+                {
+                  "word": "music",
+                  "meaning": "música"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what kind",
+            "meaning": "qué tipo"
+          },
+          {
+            "word": "music",
+            "meaning": "música"
+          },
+          {
+            "word": "listen",
+            "meaning": "escuchas"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What did you do last night?",
+        "ipa": "/wʌt dɪd jə du læst naɪt?/"
+      },
+      "back": {
+        "translation": "¿Qué hiciste anoche?",
+        "answers": [
+          {
+            "front": {
+              "text": "I went out with a friend",
+              "ipa": "/aɪ wɛnt aʊt wɪð ə frɛnd/"
+            },
+            "back": {
+              "translation": "Salí con un amigo.",
+              "glossary": [
+                {
+                  "word": "went out",
+                  "meaning": "salí"
+                },
+                {
+                  "word": "friend",
+                  "meaning": "amigo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Watched a movie.",
+              "ipa": "/wɑʧt ə ˈmuːvi./"
+            },
+            "back": {
+              "translation": "Vi una película.",
+              "glossary": [
+                {
+                  "word": "watched",
+                  "meaning": "vi"
+                },
+                {
+                  "word": "movie",
+                  "meaning": "película"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I just chilled at home!",
+              "ipa": "/aɪ dʒʌst ʧɪld æt hoʊm!/"
+            },
+            "back": {
+              "translation": "¡Me relajé en casa!",
+              "glossary": [
+                {
+                  "word": "chilled",
+                  "meaning": "relajé"
+                },
+                {
+                  "word": "home",
+                  "meaning": "casa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "last night",
+            "meaning": "anoche"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How's work going?",
+        "ipa": "/haʊz wɝk ˈɡoʊɪŋ?/"
+      },
+      "back": {
+        "translation": "¿Cómo va el trabajo?",
+        "answers": [
+          {
+            "front": {
+              "text": "I've been pretty busy",
+              "ipa": "/aɪv bɪn ˈprɪti ˈbɪzi/"
+            },
+            "back": {
+              "translation": "He estado bastante ocupado.",
+              "glossary": [
+                {
+                  "word": "pretty",
+                  "meaning": "bastante"
+                },
+                {
+                  "word": "busy",
+                  "meaning": "ocupado"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Same old, same old.",
+              "ipa": "/seɪm oʊld, seɪm oʊld/"
+            },
+            "back": {
+              "translation": "Lo mismo de siempre.",
+              "glossary": [
+                {
+                  "word": "same old",
+                  "meaning": "lo mismo de siempre"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Could be better",
+              "ipa": "/kʊd bi ˈbɛtər/"
+            },
+            "back": {
+              "translation": "Podría estar mejor.",
+              "glossary": [
+                {
+                  "word": "could",
+                  "meaning": "podría"
+                },
+                {
+                  "word": "better",
+                  "meaning": "mejor"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how's",
+            "meaning": "cómo va"
+          },
+          {
+            "word": "work",
+            "meaning": "trabajo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Did you catch the game last night?",
+        "ipa": "/dɪd jə kæʧ ðə ɡeɪm læst naɪt?/"
+      },
+      "back": {
+        "translation": "¿Viste el partido anoche?",
+        "answers": [
+          {
+            "front": {
+              "text": "Yeah, it was awesome!",
+              "ipa": "/jæ, ɪt wəz ˈɔsəm!/"
+            },
+            "back": {
+              "translation": "¡Sí, estuvo increíble!",
+              "glossary": [
+                {
+                  "word": "awesome",
+                  "meaning": "increíble"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Just the highlights",
+              "ipa": "/dʒʌst ðə ˈhaɪˌlaɪts/"
+            },
+            "back": {
+              "translation": "Solo los resúmenes.",
+              "glossary": [
+                {
+                  "word": "highlights",
+                  "meaning": "resúmenes"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Nope, missed it.",
+              "ipa": "/noʊp, mɪst ɪt/"
+            },
+            "back": {
+              "translation": "No, me lo perdí.",
+              "glossary": [
+                {
+                  "word": "missed",
+                  "meaning": "perdí"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "catch",
+            "meaning": "ver"
+          },
+          {
+            "word": "game",
+            "meaning": "partido"
+          },
+          {
+            "word": "last night",
+            "meaning": "anoche"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What's your plan for the weekend?",
+        "ipa": "/wʌts jʊr plæn fər ðə ˈwiːkˌɛnd?/"
+      },
+      "back": {
+        "translation": "¿Cuál es tu plan para el fin de semana?",
+        "answers": [
+          {
+            "front": {
+              "text": "Probably just gonna relax at home",
+              "ipa": "/ˈprɑbəbli dʒəst ˈɡʌnə rɪˈlæks æt hoʊm/"
+            },
+            "back": {
+              "translation": "Probablemente sólo relajarme en casa.",
+              "glossary": [
+                {
+                  "word": "probably",
+                  "meaning": "probablemente"
+                },
+                {
+                  "word": "relax",
+                  "meaning": "relajarme"
+                },
+                {
+                  "word": "home",
+                  "meaning": "casa"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Thinking of doing hiking",
+              "ipa": "/ˈθɪŋkɪŋ əv ˈduɪŋ ˈhaɪkɪŋ/"
+            },
+            "back": {
+              "translation": "Estoy pensando en hacer senderismo.",
+              "glossary": [
+                {
+                  "word": "thinking",
+                  "meaning": "pensando"
+                },
+                {
+                  "word": "hiking",
+                  "meaning": "senderismo"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "plan",
+            "meaning": "plan"
+          },
+          {
+            "word": "weekend",
+            "meaning": "fin de semana"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How's the weather?",
+        "ipa": "/haʊz ðə ˈwɛðər?/"
+      },
+      "back": {
+        "translation": "¿Cómo está el clima?",
+        "answers": [
+          {
+            "front": {
+              "text": "It's sunny",
+              "ipa": "/ɪts ˈsʌni/"
+            },
+            "back": {
+              "translation": "Está soleado.",
+              "glossary": [
+                {
+                  "word": "sunny",
+                  "meaning": "soleado"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "It's cloudy",
+              "ipa": "/ɪts ˈklaʊdi/"
+            },
+            "back": {
+              "translation": "Está nublado.",
+              "glossary": [
+                {
+                  "word": "cloudy",
+                  "meaning": "nublado"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how's",
+            "meaning": "cómo está"
+          },
+          {
+            "word": "weather",
+            "meaning": "clima"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What are you doing Saturday?",
+        "ipa": "/wʌt ər jə ˈduɪŋ ˈsætərdeɪ?/"
+      },
+      "back": {
+        "translation": "¿Qué vas a hacer el sábado?",
+        "answers": [
+          {
+            "front": {
+              "text": "I'm going to the movies",
+              "ipa": "/aɪm ˈɡoʊɪŋ tə ðə ˈmuːviz/"
+            },
+            "back": {
+              "translation": "Voy al cine.",
+              "glossary": [
+                {
+                  "word": "going",
+                  "meaning": "voy"
+                },
+                {
+                  "word": "movies",
+                  "meaning": "cine"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Nothing much",
+              "ipa": "/ˈnʌθɪŋ mʌʧ/"
+            },
+            "back": {
+              "translation": "No mucho.",
+              "glossary": [
+                {
+                  "word": "nothing",
+                  "meaning": "nada"
+                },
+                {
+                  "word": "much",
+                  "meaning": "mucho"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "doing",
+            "meaning": "hacer"
+          },
+          {
+            "word": "Saturday",
+            "meaning": "sábado"
+          }
+        ]
+      }
+    }
+  ],
+  "Información Personal": [
+    {
+      "front": {
+        "text": "How do you get to work?",
+        "ipa": "/haʊ du jə ɡɛt tə wɝk?/"
+      },
+      "back": {
+        "translation": "¿Cómo llegas al trabajo?",
+        "answers": [
+          {
+            "front": {
+              "text": "I drive most days",
+              "ipa": "/aɪ draɪv moʊst deɪz/"
+            },
+            "back": {
+              "translation": "Conduzco la mayoría de los días.",
+              "glossary": [
+                {
+                  "word": "drive",
+                  "meaning": "conduzco"
+                },
+                {
+                  "word": "most",
+                  "meaning": "la mayoría"
+                },
+                {
+                  "word": "days",
+                  "meaning": "días"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I take the bus",
+              "ipa": "/aɪ teɪk ðə bʌs/"
+            },
+            "back": {
+              "translation": "Tomo el autobús.",
+              "glossary": [
+                {
+                  "word": "take",
+                  "meaning": "tomo"
+                },
+                {
+                  "word": "bus",
+                  "meaning": "autobús"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I take the train",
+              "ipa": "/aɪ teɪk ðə treɪn/"
+            },
+            "back": {
+              "translation": "Tomo el tren.",
+              "glossary": [
+                {
+                  "word": "take",
+                  "meaning": "tomo"
+                },
+                {
+                  "word": "train",
+                  "meaning": "tren"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how",
+            "meaning": "cómo"
+          },
+          {
+            "word": "get to",
+            "meaning": "llegas"
+          },
+          {
+            "word": "work",
+            "meaning": "trabajo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What do you do for a living?",
+        "ipa": "/wʌt dʊ jə du fər ə ˈlɪvɪŋ?/"
+      },
+      "back": {
+        "translation": "¿A qué te dedicas?",
+        "answers": [
+          {
+            "front": {
+              "text": "I work in IT",
+              "ipa": "/aɪ wɝk ɪn aɪˈtiː/"
+            },
+            "back": {
+              "translation": "Trabajo en TI.",
+              "glossary": [
+                {
+                  "word": "work",
+                  "meaning": "trabajo"
+                },
+                {
+                  "word": "IT",
+                  "meaning": "TI (Tecnologías de la Información)"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I have my own business",
+              "ipa": "/aɪ hæv maɪ oʊn ˈbɪznəs/"
+            },
+            "back": {
+              "translation": "Tengo mi propio negocio.",
+              "glossary": [
+                {
+                  "word": "own",
+                  "meaning": "propio"
+                },
+                {
+                  "word": "business",
+                  "meaning": "negocio"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "living",
+            "meaning": "ganarse la vida"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What do you do?",
+        "ipa": "/wʌt dʊ jə du?/"
+      },
+      "back": {
+        "translation": "¿Qué haces?",
+        "answers": [
+          {
+            "front": {
+              "text": "I work in a bookshop",
+              "ipa": "/aɪ wɝk ɪn ə ˈbʊkˌʃɑp/"
+            },
+            "back": {
+              "translation": "Trabajo en una librería.",
+              "glossary": [
+                {
+                  "word": "work",
+                  "meaning": "trabajo"
+                },
+                {
+                  "word": "bookshop",
+                  "meaning": "librería"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": []
+      }
+    },
+    {
+      "front": {
+        "text": "Do you have any siblings?",
+        "ipa": "/du jə hæv ˈɛni ˈsɪblɪŋz?/"
+      },
+      "back": {
+        "translation": "¿Tienes hermanos?",
+        "answers": [
+          {
+            "front": {
+              "text": "I have 2 sisters",
+              "ipa": "/aɪ hæv tuː ˈsɪstərz/"
+            },
+            "back": {
+              "translation": "Tengo 2 hermanas.",
+              "glossary": [
+                {
+                  "word": "have",
+                  "meaning": "tengo"
+                },
+                {
+                  "word": "sisters",
+                  "meaning": "hermanas"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I have 2 brothers and 3 sisters",
+              "ipa": "/aɪ hæv tuː ˈbrʌðərz ənd θriː ˈsɪstərz/"
+            },
+            "back": {
+              "translation": "Tengo 2 hermanos y 3 hermanas.",
+              "glossary": [
+                {
+                  "word": "have",
+                  "meaning": "tengo"
+                },
+                {
+                  "word": "brothers",
+                  "meaning": "hermanos"
+                },
+                {
+                  "word": "sisters",
+                  "meaning": "hermanas"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I have no brothers or sisters",
+              "ipa": "/aɪ hæv noʊ ˈbrʌðərz ɔr ˈsɪstərz/"
+            },
+            "back": {
+              "translation": "No tengo hermanos ni hermanas.",
+              "glossary": [
+                {
+                  "word": "no",
+                  "meaning": "no"
+                },
+                {
+                  "word": "brothers",
+                  "meaning": "hermanos"
+                },
+                {
+                  "word": "sisters",
+                  "meaning": "hermanas"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "have",
+            "meaning": "tienes"
+          },
+          {
+            "word": "siblings",
+            "meaning": "hermanos"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What did you do this weekend?",
+        "ipa": "/wʌt dɪd jə du ðɪs ˈwiːkˌɛnd?/"
+      },
+      "back": {
+        "translation": "¿Qué hiciste este fin de semana?",
+        "answers": [
+          {
+            "front": {
+              "text": "I had a great weekend",
+              "ipa": "/aɪ hæd ə ɡreɪt ˈwiːkˌɛnd/"
+            },
+            "back": {
+              "translation": "Tuve un gran fin de semana.",
+              "glossary": [
+                {
+                  "word": "had",
+                  "meaning": "tuve"
+                },
+                {
+                  "word": "great",
+                  "meaning": "gran"
+                },
+                {
+                  "word": "weekend",
+                  "meaning": "fin de semana"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I had a relaxing weekend",
+              "ipa": "/aɪ hæd ə rɪˈlæksɪŋ ˈwiːkˌɛnd/"
+            },
+            "back": {
+              "translation": "Tuve un fin de semana relajante.",
+              "glossary": [
+                {
+                  "word": "had",
+                  "meaning": "tuve"
+                },
+                {
+                  "word": "relaxing",
+                  "meaning": "relajante"
+                },
+                {
+                  "word": "weekend",
+                  "meaning": "fin de semana"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I went to the beach",
+              "ipa": "/aɪ wɛnt tə ðə biːʧ/"
+            },
+            "back": {
+              "translation": "Fui a la playa.",
+              "glossary": [
+                {
+                  "word": "went",
+                  "meaning": "fui"
+                },
+                {
+                  "word": "beach",
+                  "meaning": "playa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "weekend",
+            "meaning": "fin de semana"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Where did you grow up?",
+        "ipa": "/wɛr dɪd jə ɡroʊ ʌp?/"
+      },
+      "back": {
+        "translation": "¿Dónde creciste?",
+        "answers": [
+          {
+            "front": {
+              "text": "I grew up in Colombia",
+              "ipa": "/aɪ ɡru ʌp ɪn kəˈlɒmbiə/"
+            },
+            "back": {
+              "translation": "Crecí en Colombia.",
+              "glossary": [
+                {
+                  "word": "grew up",
+                  "meaning": "crecí"
+                },
+                {
+                  "word": "Colombia",
+                  "meaning": "Colombia"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I grew up in Sogamoso",
+              "ipa": "/aɪ ɡru ʌp ɪn soʊɡəˈmosoʊ/"
+            },
+            "back": {
+              "translation": "Crecí en Sogamoso.",
+              "glossary": [
+                {
+                  "word": "grew up",
+                  "meaning": "crecí"
+                },
+                {
+                  "word": "Sogamoso",
+                  "meaning": "Sogamoso"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "grow up",
+            "meaning": "crecer"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Where were you born?",
+        "ipa": "/wɛr wɝ jə bɔrn?/"
+      },
+      "back": {
+        "translation": "¿Dónde naciste?",
+        "answers": [
+          {
+            "front": {
+              "text": "I was born in Bogota",
+              "ipa": "/aɪ wəz bɔrn ɪn boʊˈɡoʊtə/"
+            },
+            "back": {
+              "translation": "Nací en Bogotá.",
+              "glossary": [
+                {
+                  "word": "born",
+                  "meaning": "nací"
+                },
+                {
+                  "word": "Bogota",
+                  "meaning": "Bogotá"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "born",
+            "meaning": "naciste"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Where do you live?",
+        "ipa": "/wɛr du jə lɪv?/"
+      },
+      "back": {
+        "translation": "¿Dónde vives?",
+        "answers": [
+          {
+            "front": {
+              "text": "I live in Canada",
+              "ipa": "/aɪ lɪv ɪn ˈkænədə/"
+            },
+            "back": {
+              "translation": "Vivo en Canadá.",
+              "glossary": [
+                {
+                  "word": "live",
+                  "meaning": "vivo"
+                },
+                {
+                  "word": "Canada",
+                  "meaning": "Canadá"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "live",
+            "meaning": "vives"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Who do you live with?",
+        "ipa": "/huː du jə lɪv wɪð?/"
+      },
+      "back": {
+        "translation": "¿Con quién vives?",
+        "answers": [
+          {
+            "front": {
+              "text": "I live alone",
+              "ipa": "/aɪ lɪv əˈloʊn/"
+            },
+            "back": {
+              "translation": "Vivo solo.",
+              "glossary": [
+                {
+                  "word": "live",
+                  "meaning": "vivo"
+                },
+                {
+                  "word": "alone",
+                  "meaning": "solo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I live with my wife",
+              "ipa": "/aɪ lɪv wɪð maɪ waɪf/"
+            },
+            "back": {
+              "translation": "Vivo con mi esposa.",
+              "glossary": [
+                {
+                  "word": "live",
+                  "meaning": "vivo"
+                },
+                {
+                  "word": "with",
+                  "meaning": "con"
+                },
+                {
+                  "word": "wife",
+                  "meaning": "esposa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "who",
+            "meaning": "quién"
+          },
+          {
+            "word": "live with",
+            "meaning": "vives con"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Are you married?",
+        "ipa": "/ɑr jə ˈmærɪd?/"
+      },
+      "back": {
+        "translation": "¿Estás casado?",
+        "answers": [
+          {
+            "front": {
+              "text": "I'm married",
+              "ipa": "/aɪm ˈmærɪd/"
+            },
+            "back": {
+              "translation": "Estoy casado.",
+              "glossary": [
+                {
+                  "word": "married",
+                  "meaning": "casado"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I'm single",
+              "ipa": "/aɪm ˈsɪŋɡəl/"
+            },
+            "back": {
+              "translation": "Estoy soltero.",
+              "glossary": [
+                {
+                  "word": "single",
+                  "meaning": "soltero"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I'm seeing someone",
+              "ipa": "/aɪm ˈsiːɪŋ ˈsʌmwʌn/"
+            },
+            "back": {
+              "translation": "Estoy saliendo con alguien.",
+              "glossary": [
+                {
+                  "word": "seeing",
+                  "meaning": "saliendo con"
+                },
+                {
+                  "word": "someone",
+                  "meaning": "alguien"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "married",
+            "meaning": "casado"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How many children do you have?",
+        "ipa": "/haʊ ˈmɛni ˈʧɪldrən du jə hæv?/"
+      },
+      "back": {
+        "translation": "¿Cuántos hijos tienes?",
+        "answers": [
+          {
+            "front": {
+              "text": "I don't have any children",
+              "ipa": "/aɪ doʊnt hæv ˈɛni ˈʧɪldrən/"
+            },
+            "back": {
+              "translation": "No tengo hijos.",
+              "glossary": [
+                {
+                  "word": "don't have",
+                  "meaning": "no tengo"
+                },
+                {
+                  "word": "any",
+                  "meaning": "ningún"
+                },
+                {
+                  "word": "children",
+                  "meaning": "hijos"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I have 6 children",
+              "ipa": "/aɪ hæv sɪks ˈʧɪldrən/"
+            },
+            "back": {
+              "translation": "Tengo 6 hijos.",
+              "glossary": [
+                {
+                  "word": "have",
+                  "meaning": "tengo"
+                },
+                {
+                  "word": "children",
+                  "meaning": "hijos"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how many",
+            "meaning": "cuántos"
+          },
+          {
+            "word": "children",
+            "meaning": "hijos"
+          },
+          {
+            "word": "have",
+            "meaning": "tienes"
+          }
+        ]
+      }
+    }
+  ],
+  "Peticiones y Ofrecimientos": [
+    {
+      "front": {
+        "text": "Need a hand?",
+        "ipa": "/niːd ə hænd/"
+      },
+      "back": {
+        "translation": "¿Necesitas ayuda?",
+        "answers": [],
+        "glossary": [
+          {
+            "word": "need",
+            "meaning": "necesitas"
+          },
+          {
+            "word": "hand",
+            "meaning": "ayuda"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Do you mind?",
+        "ipa": "/du jə maɪnd?/"
+      },
+      "back": {
+        "translation": "¿Te importa?",
+        "answers": [
+          {
+            "front": {
+              "text": "No worries",
+              "ipa": "/noʊ ˈwɝriz/"
+            },
+            "back": {
+              "translation": "No te preocupes.",
+              "glossary": [
+                {
+                  "word": "no worries",
+                  "meaning": "no te preocupes"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "mind",
+            "meaning": "importar"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Can I get you something?",
+        "ipa": "/kæn aɪ ɡɛt jə ˈsʌmθɪŋ?/"
+      },
+      "back": {
+        "translation": "¿Te consigo algo?",
+        "answers": [
+          {
+            "front": {
+              "text": "No, thanks, I'm fine",
+              "ipa": "/noʊ θæŋks, aɪm faɪn/"
+            },
+            "back": {
+              "translation": "No, gracias, estoy bien.",
+              "glossary": [
+                {
+                  "word": "thanks",
+                  "meaning": "gracias"
+                },
+                {
+                  "word": "fine",
+                  "meaning": "bien"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Yes, I would like a glass of water",
+              "ipa": "/jɛs, aɪ wʊd laɪk ə ɡlæs əv ˈwɔtər/"
+            },
+            "back": {
+              "translation": "Sí, me gustaría un vaso de agua.",
+              "glossary": [
+                {
+                  "word": "would like",
+                  "meaning": "me gustaría"
+                },
+                {
+                  "word": "glass",
+                  "meaning": "vaso"
+                },
+                {
+                  "word": "water",
+                  "meaning": "agua"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "get",
+            "meaning": "conseguir"
+          },
+          {
+            "word": "something",
+            "meaning": "algo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How can I help you?",
+        "ipa": "/haʊ kən aɪ hɛlp ju?/"
+      },
+      "back": {
+        "translation": "¿Cómo puedo ayudarte?",
+        "answers": [
+          {
+            "front": {
+              "text": "Thank you, I'm just looking",
+              "ipa": "/θæŋk ju, aɪm dʒʌst ˈlʊkɪŋ/"
+            },
+            "back": {
+              "translation": "Gracias, solo estoy mirando.",
+              "glossary": [
+                {
+                  "word": "thank you",
+                  "meaning": "gracias"
+                },
+                {
+                  "word": "just",
+                  "meaning": "solo"
+                },
+                {
+                  "word": "looking",
+                  "meaning": "mirando"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Thank you, I'm looking for new shoes.",
+              "ipa": "/θæŋk ju, aɪm ˈlʊkɪŋ fər nju ʃuz/"
+            },
+            "back": {
+              "translation": "Gracias, busco zapatos nuevos.",
+              "glossary": [
+                {
+                  "word": "thank you",
+                  "meaning": "gracias"
+                },
+                {
+                  "word": "looking for",
+                  "meaning": "buscando"
+                },
+                {
+                  "word": "new",
+                  "meaning": "nuevos"
+                },
+                {
+                  "word": "shoes",
+                  "meaning": "zapatos"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how",
+            "meaning": "cómo"
+          },
+          {
+            "word": "help",
+            "meaning": "ayudar"
+          }
+        ]
+      }
+    }
+  ],
+  "Restaurante y Comida": [
+    {
+      "front": {
+        "text": "Want something to drink?",
+        "ipa": "/wɑnt ˈsʌmθɪŋ tə drɪŋk?/"
+      },
+      "back": {
+        "translation": "¿Quieres algo de beber?",
+        "answers": [
+          {
+            "front": {
+              "text": "Water's fine, thanks.",
+              "ipa": "/ˈwɔtərz faɪn θæŋks/"
+            },
+            "back": {
+              "translation": "Con agua estoy bien, gracias.",
+              "glossary": [
+                {
+                  "word": "water",
+                  "meaning": "agua"
+                },
+                {
+                  "word": "fine",
+                  "meaning": "bien"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "want",
+            "meaning": "quieres"
+          },
+          {
+            "word": "something",
+            "meaning": "algo"
+          },
+          {
+            "word": "drink",
+            "meaning": "beber"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Have you eaten yet?",
+        "ipa": "/hæv ju ˈiːtən jɛt?/"
+      },
+      "back": {
+        "translation": "¿Has comido ya?",
+        "answers": [
+          {
+            "front": {
+              "text": "Not yet.",
+              "ipa": "/nɑt jɛt/"
+            },
+            "back": {
+              "translation": "Aún no.",
+              "glossary": [
+                {
+                  "word": "not yet",
+                  "meaning": "aún no"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Just a bit",
+              "ipa": "/dʒʌst ə bɪt/"
+            },
+            "back": {
+              "translation": "Solo un poco.",
+              "glossary": [
+                {
+                  "word": "just",
+                  "meaning": "solo"
+                },
+                {
+                  "word": "a bit",
+                  "meaning": "un poco"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Yeah, grabbed a bite earlier.",
+              "ipa": "/jæ græbd ə baɪt ˈɜrliɚ/"
+            },
+            "back": {
+              "translation": "Sí, comí algo antes.",
+              "glossary": [
+                {
+                  "word": "grabbed a bite",
+                  "meaning": "comí algo"
+                },
+                {
+                  "word": "earlier",
+                  "meaning": "antes"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "eaten",
+            "meaning": "comido"
+          },
+          {
+            "word": "yet",
+            "meaning": "ya"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Wanna grab something to eat?",
+        "ipa": "/ˈwɑnə ɡræb ˈsʌmθɪŋ tə it?/"
+      },
+      "back": {
+        "translation": "¿Quieres agarrar algo para comer?",
+        "answers": [
+          {
+            "front": {
+              "text": "I'm not sure yet",
+              "ipa": "/aɪm nɑt ʃʊr jɛt/"
+            },
+            "back": {
+              "translation": "No estoy seguro todavía.",
+              "glossary": [
+                {
+                  "word": "sure",
+                  "meaning": "seguro"
+                },
+                {
+                  "word": "yet",
+                  "meaning": "todavía"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Let's do it.",
+              "ipa": "/lɛts du ɪt/"
+            },
+            "back": {
+              "translation": "Hagámoslo.",
+              "glossary": [
+                {
+                  "word": "let's",
+                  "meaning": "vamos a"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "wanna",
+            "meaning": "quieres"
+          },
+          {
+            "word": "grab",
+            "meaning": "agarrar"
+          },
+          {
+            "word": "eat",
+            "meaning": "comer"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Hi, are you ready to order?",
+        "ipa": "/haɪ, ɑr jə ˈrɛdi tə ˈɔrdər?/"
+      },
+      "back": {
+        "translation": "Hola, ¿estás listo para ordenar?",
+        "answers": [
+          {
+            "front": {
+              "text": "Give me a minute, please.",
+              "ipa": "/ɡɪv mi ə ˈmɪnɪt, pliːz/"
+            },
+            "back": {
+              "translation": "Dame un minuto, por favor.",
+              "glossary": [
+                {
+                  "word": "give",
+                  "meaning": "dame"
+                },
+                {
+                  "word": "minute",
+                  "meaning": "minuto"
+                },
+                {
+                  "word": "please",
+                  "meaning": "por favor"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Not yet.",
+              "ipa": "/nɑt jɛt/"
+            },
+            "back": {
+              "translation": "Aún no.",
+              "glossary": [
+                {
+                  "word": "not yet",
+                  "meaning": "aún no"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "ready",
+            "meaning": "listo"
+          },
+          {
+            "word": "order",
+            "meaning": "ordenar"
+          }
+        ]
+      }
+    }
+  ],
+  "Opiniones y Acuerdos": [
+    {
+      "front": {
+        "text": "You know what I mean?",
+        "ipa": "/ju noʊ wʌt aɪ min?/"
+      },
+      "back": {
+        "translation": "¿Sabes a lo que me refiero?",
+        "answers": [],
+        "glossary": [
+          {
+            "word": "know",
+            "meaning": "sabes"
+          },
+          {
+            "word": "mean",
+            "meaning": "refiero"
+          }
+        ]
+      }
+    }
+  ],
+  "Exclamaciones y Reacciones": [
+    {
+      "front": {
+        "text": "You ready?",
+        "ipa": "/ju ˈrɛdi/"
+      },
+      "back": {
+        "translation": "¿Estás listo?",
+        "answers": [
+          {
+            "front": {
+              "text": "Almost! Give me a sec.",
+              "ipa": "/ˈɔlmoʊst ɡɪv mi ə sɛk/"
+            },
+            "back": {
+              "translation": "¡Casi! Dame un segundo.",
+              "glossary": [
+                {
+                  "word": "almost",
+                  "meaning": "casi"
+                },
+                {
+                  "word": "give",
+                  "meaning": "dame"
+                },
+                {
+                  "word": "sec",
+                  "meaning": "segundo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "Not yet.",
+              "ipa": "/nɑt jɛt/"
+            },
+            "back": {
+              "translation": "Aún no.",
+              "glossary": [
+                {
+                  "word": "not yet",
+                  "meaning": "aún no"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "ready",
+            "meaning": "listo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "You okay?",
+        "ipa": "/ju oʊˈkeɪ?/"
+      },
+      "back": {
+        "translation": "¿Estás bien?",
+        "answers": [
+          {
+            "front": {
+              "text": "Yeah, just tired.",
+              "ipa": "/jæ, dʒʌst ˈtaɪɚd/"
+            },
+            "back": {
+              "translation": "Sí, solo estoy cansado.",
+              "glossary": [
+                {
+                  "word": "yeah",
+                  "meaning": "sí"
+                },
+                {
+                  "word": "just",
+                  "meaning": "solo"
+                },
+                {
+                  "word": "tired",
+                  "meaning": "cansado"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "okay",
+            "meaning": "bien"
+          }
+        ]
+      }
+    }
+  ],
+  "Frases Generales": [
+    {
+      "front": {
+        "text": "Where you headed?",
+        "ipa": "/wɛɹ jə ˈhɛdəd/"
+      },
+      "back": {
+        "translation": "¿A dónde vas?",
+        "answers": [
+          {
+            "front": {
+              "text": "Just home.",
+              "ipa": "/dʒʌst hoʊm/"
+            },
+            "back": {
+              "translation": "Solo a casa.",
+              "glossary": [
+                {
+                  "word": "just",
+                  "meaning": "solo"
+                },
+                {
+                  "word": "home",
+                  "meaning": "casa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "headed",
+            "meaning": "te diriges"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Is this seat taken?",
+        "ipa": "/ɪz ðɪs sit ˈteɪkən?/"
+      },
+      "back": {
+        "translation": "¿Está ocupado este asiento?",
+        "answers": [
+          {
+            "front": {
+              "text": "Nope, go ahead.",
+              "ipa": "/noʊp ɡoʊ əˈhɛd/"
+            },
+            "back": {
+              "translation": "No, adelante.",
+              "glossary": [
+                {
+                  "word": "nope",
+                  "meaning": "no (informal)"
+                },
+                {
+                  "word": "go ahead",
+                  "meaning": "adelante"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "seat",
+            "meaning": "asiento"
+          },
+          {
+            "word": "taken",
+            "meaning": "ocupado"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What are you doing?",
+        "ipa": "/wʌt ər jə ˈduɪŋ?/"
+      },
+      "back": {
+        "translation": "¿Qué estás haciendo?",
+        "answers": [
+          {
+            "front": {
+              "text": "I'm working",
+              "ipa": "/aɪm ˈwɝkɪŋ/"
+            },
+            "back": {
+              "translation": "Estoy trabajando.",
+              "glossary": [
+                {
+                  "word": "working",
+                  "meaning": "trabajando"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I'm eating",
+              "ipa": "/aɪm ˈiːtɪŋ/"
+            },
+            "back": {
+              "translation": "Estoy comiendo.",
+              "glossary": [
+                {
+                  "word": "eating",
+                  "meaning": "comiendo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I'm studying",
+              "ipa": "/aɪm ˈstʌdiɪŋ/"
+            },
+            "back": {
+              "translation": "Estoy estudiando.",
+              "glossary": [
+                {
+                  "word": "studying",
+                  "meaning": "estudiando"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "what",
+            "meaning": "qué"
+          },
+          {
+            "word": "doing",
+            "meaning": "haciendo"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "When does it start?",
+        "ipa": "/wɛn dʌz ɪt stɑrt?/"
+      },
+      "back": {
+        "translation": "¿Cuándo empieza?",
+        "answers": [
+          {
+            "front": {
+              "text": "At five AM",
+              "ipa": "/æt faɪv eɪˈɛm/"
+            },
+            "back": {
+              "translation": "A las cinco AM.",
+              "glossary": [
+                {
+                  "word": "at",
+                  "meaning": "a las"
+                },
+                {
+                  "word": "five",
+                  "meaning": "cinco"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "At 2 o'clock",
+              "ipa": "/æt tu əˈklɑk/"
+            },
+            "back": {
+              "translation": "A las 2 en punto.",
+              "glossary": [
+                {
+                  "word": "at",
+                  "meaning": "a las"
+                },
+                {
+                  "word": "o'clock",
+                  "meaning": "en punto"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "At 9:00 AM",
+              "ipa": "/æt naɪn əˈɛm/"
+            },
+            "back": {
+              "translation": "A las 9:00 AM.",
+              "glossary": [
+                {
+                  "word": "at",
+                  "meaning": "a las"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "when",
+            "meaning": "cuándo"
+          },
+          {
+            "word": "start",
+            "meaning": "empieza"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Where have you been?",
+        "ipa": "/wɛr həv jə bɪn?/"
+      },
+      "back": {
+        "translation": "¿Dónde has estado?",
+        "answers": [
+          {
+            "front": {
+              "text": "I was at the hospital",
+              "ipa": "/aɪ wəz æt ðə ˈhɑspɪtəl/"
+            },
+            "back": {
+              "translation": "Estuve en el hospital.",
+              "glossary": [
+                {
+                  "word": "was",
+                  "meaning": "estuve"
+                },
+                {
+                  "word": "hospital",
+                  "meaning": "hospital"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I was at school",
+              "ipa": "/aɪ wəz æt skul/"
+            },
+            "back": {
+              "translation": "Estuve en la escuela.",
+              "glossary": [
+                {
+                  "word": "was",
+                  "meaning": "estuve"
+                },
+                {
+                  "word": "school",
+                  "meaning": "escuela"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I was at the grocery store",
+              "ipa": "/aɪ wəz æt ðə ˈɡroʊsəri stɔr/"
+            },
+            "back": {
+              "translation": "Estuve en el supermercado.",
+              "glossary": [
+                {
+                  "word": "was",
+                  "meaning": "estuve"
+                },
+                {
+                  "word": "grocery store",
+                  "meaning": "supermercado"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "been",
+            "meaning": "estado"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Where are you off to?",
+        "ipa": "/wɛr ɑr jə ɔf tə?/"
+      },
+      "back": {
+        "translation": "¿A dónde vas? (informal)",
+        "answers": [
+          {
+            "front": {
+              "text": "To work",
+              "ipa": "/tə wɝk/"
+            },
+            "back": {
+              "translation": "Al trabajo.",
+              "glossary": [
+                {
+                  "word": "work",
+                  "meaning": "trabajo"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "To school",
+              "ipa": "/tə skul/"
+            },
+            "back": {
+              "translation": "A la escuela.",
+              "glossary": [
+                {
+                  "word": "school",
+                  "meaning": "escuela"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "To the airport",
+              "ipa": "/tə ði ˈɛrˌpɔrt/"
+            },
+            "back": {
+              "translation": "Al aeropuerto.",
+              "glossary": [
+                {
+                  "word": "airport",
+                  "meaning": "aeropuerto"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "where",
+            "meaning": "dónde"
+          },
+          {
+            "word": "off to",
+            "meaning": "vas a"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Who's this?",
+        "ipa": "/huz ðɪs?/"
+      },
+      "back": {
+        "translation": "¿Quién es este/esta?",
+        "answers": [
+          {
+            "front": {
+              "text": "This is my friend, Laura",
+              "ipa": "/ðɪs ɪz maɪ frɛnd ˈlɔrə/"
+            },
+            "back": {
+              "translation": "Esta es mi amiga Laura.",
+              "glossary": [
+                {
+                  "word": "friend",
+                  "meaning": "amiga"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "This is my wife",
+              "ipa": "/ðɪs ɪz maɪ waɪf/"
+            },
+            "back": {
+              "translation": "Esta es mi esposa.",
+              "glossary": [
+                {
+                  "word": "wife",
+                  "meaning": "esposa"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "who's",
+            "meaning": "quién es"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "Why are you so late?",
+        "ipa": "/waɪ ɑr jʊ soʊ leɪt?/"
+      },
+      "back": {
+        "translation": "¿Por qué llegas tan tarde?",
+        "answers": [
+          {
+            "front": {
+              "text": "I missed the bus",
+              "ipa": "/aɪ mɪst ðə bʌs/"
+            },
+            "back": {
+              "translation": "Perdí el bus.",
+              "glossary": [
+                {
+                  "word": "missed",
+                  "meaning": "perdí"
+                },
+                {
+                  "word": "bus",
+                  "meaning": "autobús"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "I missed my flight",
+              "ipa": "/aɪ mɪst maɪ flaɪt/"
+            },
+            "back": {
+              "translation": "Perdí mi vuelo.",
+              "glossary": [
+                {
+                  "word": "missed",
+                  "meaning": "perdí"
+                },
+                {
+                  "word": "flight",
+                  "meaning": "vuelo"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "why",
+            "meaning": "por qué"
+          },
+          {
+            "word": "late",
+            "meaning": "tarde"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "How did you get there?",
+        "ipa": "/haʊ dɪd jə ɡɛt ðɛr?/"
+      },
+      "back": {
+        "translation": "¿Cómo llegaste allí?",
+        "answers": [
+          {
+            "front": {
+              "text": "By bus",
+              "ipa": "/baɪ bʌs/"
+            },
+            "back": {
+              "translation": "En bus.",
+              "glossary": [
+                {
+                  "word": "by",
+                  "meaning": "en"
+                },
+                {
+                  "word": "bus",
+                  "meaning": "autobús"
+                }
+              ]
+            }
+          },
+          {
+            "front": {
+              "text": "By train",
+              "ipa": "/baɪ treɪn/"
+            },
+            "back": {
+              "translation": "En tren.",
+              "glossary": [
+                {
+                  "word": "by",
+                  "meaning": "en"
+                },
+                {
+                  "word": "train",
+                  "meaning": "tren"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "how",
+            "meaning": "cómo"
+          },
+          {
+            "word": "get",
+            "meaning": "llegaste"
+          },
+          {
+            "word": "there",
+            "meaning": "allí"
+          }
+        ]
+      }
+    },
+    {
+      "front": {
+        "text": "What's going on?",
+        "ipa": "/wʌts ˈɡoʊɪŋ ɑn?/"
+      },
+      "back": {
+        "translation": "¿Qué está pasando?",
+        "answers": [
+          {
+            "front": {
+              "text": "Not much",
+              "ipa": "/ˈnʌθɪŋ mʌʧ/"
+            },
+            "back": {
+              "translation": "No mucho.",
+              "glossary": [
+                {
+                  "word": "not much",
+                  "meaning": "no mucho"
+                }
+              ]
+            }
+          }
+        ],
+        "glossary": [
+          {
+            "word": "going on",
+            "meaning": "pasando"
+          }
+        ]
+      }
+    }
+  ]
+}
