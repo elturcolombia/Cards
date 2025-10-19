@@ -110,3 +110,11 @@ That's it! Your local development environment is now configured, the database is
 
 -   **Database Access:**
     You can manage the MariaDB database via phpMyAdmin at [http://localhost:8080](http://localhost:8080).
+
+---
+
+## 🤝 Contributing
+
+All contributions are welcome. Before you start, please read our project constitution to understand our development principles and workflow.
+
+- **[Project Constitution](/.specify/memory/constitution.md)**
